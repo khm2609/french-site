@@ -13,7 +13,7 @@
 	   Les déterminants/ Местоимения</a>
 	   </em></h1><hr>
 	   
-	   <h1 style="position: relative;text-align: center;"><em>Les verbes, les temps, la conjugaison/ Глалголы, времена, спряжения</em></h1><hr></hr>
+	   <h1 style="position: relative;text-align: center;"><em>Les verbes, les temps, la conjugaison/ Глалголы, времена, спряжения</em></h1><hr>
 	   <h1 style="position: relative;text-align: center;"><em> La négation/ Отрицание</em></h1><hr>
 	   <h1 style="position: relative;text-align: center;"><em>Le nom/ Имя существительное</em></h1><hr>
 	   <h1 style="position: relative;text-align: center;"><em>La préposition/ Предлог</em></h1><hr>
